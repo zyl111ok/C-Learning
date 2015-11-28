@@ -1,0 +1,19 @@
+[main] Pointer 1000 (0) exception: trapped!
+[main] Pointer 1000 (0) exception: code 0xC0000005 at 0x401181
+[main] Pointer 1000 (0) exception: ax 0x0 bx 0x246FEFC cx 0x407F4C dx 0x4152EB
+[main] Pointer 1000 (0) exception: si 0x0 di 0x0 bp 0x246FF0C sp 0x246FEE4
+[main] Pointer 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] Pointer 1000 (0) stack: Stack trace:
+[main] Pointer 1000 (0) stack: frame 0: sp = 0x246F908, pc = 0x6100A2C3
+[main] Pointer 1000 (0) stack: frame 1: sp = 0x246F944, pc = 0x7743B63D
+[main] Pointer 1000 (0) stack: frame 2: sp = 0x246F968, pc = 0x7743B60F
+[main] Pointer 1000 (0) stack: frame 3: sp = 0x246FA18, pc = 0x773F0133
+[main] Pointer 1000 (0) stack: frame 4: sp = 0x246FF0C, pc = 0x61004402
+[main] Pointer 1000 (0) stack: frame 5: sp = 0x246FF50, pc = 0x61004420
+[main] Pointer 1000 (0) stack: frame 6: sp = 0x246FF5C, pc = 0x413EF6
+[main] Pointer 1000 (0) stack: frame 7: sp = 0x246FF6C, pc = 0x40103A
+[main] Pointer 1000 (0) stack: frame 8: sp = 0x246FF88, pc = 0x7543336A
+[main] Pointer 1000 (0) stack: frame 9: sp = 0x246FF94, pc = 0x774192B2
+[main] Pointer 1000 (0) stack: frame 10: sp = 0x246FFD4, pc = 0x77419285
+[main] Pointer 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] Pointer 1000 (0) stack: End of stack trace
