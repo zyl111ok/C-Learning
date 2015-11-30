@@ -1,0 +1,23 @@
+[sig] String 1000 (0) exception: trapped!
+[sig] String 1000 (0) exception: code 0xC0000005 at 0x6105AFA1
+[sig] String 1000 (0) exception: ax 0x610727D0 bx 0xF0110A8 cx 0x610627D0 dx 0x610727D0
+[sig] String 1000 (0) exception: si 0x1D0 di 0xF010ED8 bp 0x5BEFD6C sp 0x5BEFD40
+[sig] String 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[sig] String 1000 (0) stack: Stack trace:
+[sig] String 1000 (0) stack: frame 0: sp = 0x5BEF764, pc = 0x6100A2C3
+[sig] String 1000 (0) stack: frame 1: sp = 0x5BEF7A0, pc = 0x7704B63D
+[sig] String 1000 (0) stack: frame 2: sp = 0x5BEF7C4, pc = 0x7704B60F
+[sig] String 1000 (0) stack: frame 3: sp = 0x5BEF874, pc = 0x77000133
+[sig] String 1000 (0) stack: frame 4: sp = 0x5BEFD6C, pc = 0x6101A4A7
+[sig] String 1000 (0) stack: frame 5: sp = 0x5BEFD7C, pc = 0x6101A3F6
+[sig] String 1000 (0) stack: frame 6: sp = 0x5BEFD88, pc = 0x6104B87F
+[sig] String 1000 (0) stack: frame 7: sp = 0x5BEFE10, pc = 0x6100D93E
+[sig] String 1000 (0) stack: frame 8: sp = 0x5BEFE20, pc = 0x6105F248
+[sig] String 1000 (0) stack: frame 9: sp = 0x5BEFE30, pc = 0x610190B9
+[sig] String 1000 (0) stack: frame 10: sp = 0x5BEFE48, pc = 0x61030C1E
+[sig] String 1000 (0) stack: frame 11: sp = 0x5BEFE84, pc = 0x6102FF3E
+[sig] String 1000 (0) stack: frame 12: sp = 0x5BEFE94, pc = 0x610045DD
+[sig] String 1000 (0) stack: frame 13: sp = 0x5BEFEB8, pc = 0x6100ADF4
+[sig] String 1000 (0) stack: frame 14: sp = 0x5BEFF10, pc = 0x6102BE53
+[sig] String 1000 (0) stack: frame 15: sp = 0x5BEFF58, pc = 0x61004A36
+[sig] String 1000 (0) stack: End of stack trace (more stack frames may be present)

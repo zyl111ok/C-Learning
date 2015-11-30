@@ -1,0 +1,23 @@
+[main] cc1plus 1002 (0) exception: trapped!
+[main] cc1plus 1002 (0) exception: code 0xC0000005 at 0x49C11C
+[main] cc1plus 1002 (0) exception: ax 0x3 bx 0xF367CD0 cx 0x23 dx 0x0
+[main] cc1plus 1002 (0) exception: si 0x0 di 0x0 bp 0x25DED44 sp 0x25DED08
+[main] cc1plus 1002 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] cc1plus 1002 (0) stack: Stack trace:
+[main] cc1plus 1002 (0) stack: frame 0: sp = 0x25DE72C, pc = 0x6100A2C3
+[main] cc1plus 1002 (0) stack: frame 1: sp = 0x25DE768, pc = 0x773EB63D
+[main] cc1plus 1002 (0) stack: frame 2: sp = 0x25DE78C, pc = 0x773EB60F
+[main] cc1plus 1002 (0) stack: frame 3: sp = 0x25DE83C, pc = 0x773A0133
+[main] cc1plus 1002 (0) stack: frame 4: sp = 0x25DED44, pc = 0x49835E
+[main] cc1plus 1002 (0) stack: frame 5: sp = 0x25DED60, pc = 0x41A9AE
+[main] cc1plus 1002 (0) stack: frame 6: sp = 0x25DEDC0, pc = 0x427A70
+[main] cc1plus 1002 (0) stack: frame 7: sp = 0x25DEE14, pc = 0x43A0E5
+[main] cc1plus 1002 (0) stack: frame 8: sp = 0x25DEE24, pc = 0x406486
+[main] cc1plus 1002 (0) stack: frame 9: sp = 0x25DEE6C, pc = 0x404567
+[main] cc1plus 1002 (0) stack: frame 10: sp = 0x25DEE9C, pc = 0x468963
+[main] cc1plus 1002 (0) stack: frame 11: sp = 0x25DEEE8, pc = 0x43896E
+[main] cc1plus 1002 (0) stack: frame 12: sp = 0x25DEF18, pc = 0x4389CC
+[main] cc1plus 1002 (0) stack: frame 13: sp = 0x25DEF40, pc = 0x4389E5
+[main] cc1plus 1002 (0) stack: frame 14: sp = 0x25DEF68, pc = 0x4389E5
+[main] cc1plus 1002 (0) stack: frame 15: sp = 0x25DEF90, pc = 0x4388EB
+[main] cc1plus 1002 (0) stack: End of stack trace (more stack frames may be present)

@@ -28,5 +28,9 @@ int main()
 	int *const curErr=&errnumb;
 	//curErr=&corret;编译器报错:试图改变常指针的指向
 	*curErr=404;//正确:指针本身是常量并不意味着不能通过指针修改其所指对象的值
+	cout<<" errnumb: "<<errnumb<<endl;
+	double *p=ptr;//正确顶层const可以拷贝
+	int *p1=curErr;
+	//错误，*p不包含底层const的定义，底层const不能拷贝，否则这将试图改变常指针的指向
 
 }
